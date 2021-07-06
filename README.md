@@ -1,3 +1,4 @@
 # Security_Lists
 
-Lists I am using frequently 
+Just a collection of lists for educational purposes and pentesters
+but it's good as fuck.
