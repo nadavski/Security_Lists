@@ -1,6 +1,5 @@
 # Security_Lists
 
-Good as fuck collection.
 <h3>Changes</h3>
 <table border="1">
 <tr><th>Change Description</th><th>Date</th></tr>
